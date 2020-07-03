@@ -7,8 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc22cb79-c01a-488e-ad16-3559f3990438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/GYT 247-2011 影院管理系统基本功能和接口规范.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/GYT 276-2013 电影院票务管理系统技术要求和测量方法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/HZAU国际影城软件概要设计说明书V2.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/HZAU国际影城软件测试计划V2.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/HZAU国际影城软件详细设计说明书V2.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/HZAU国际影城软件需求规格说明书V3.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/影片信息Fri May 01 2020 13_15_55 GMT+0800 (中国标准时间).xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/5d077ac36100595646.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/体系结构设计文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/体系结构设计文档.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/用例文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/用例文档.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/详细设计文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/详细设计文档.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/需求规格说明文档.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/需求规格说明文档.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +116,7 @@
       <workItem from="1591086974401" duration="6977000" />
       <workItem from="1591166072349" duration="98000" />
       <workItem from="1593651106810" duration="1179000" />
-      <workItem from="1593739203328" duration="4565000" />
+      <workItem from="1593739203328" duration="6026000" />
     </task>
     <task id="LOCAL-00001" summary="开发人员首次提交CMS">
       <created>1593744156934</created>
@@ -110,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593744156934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'master' of https://github.com/myzhibei/CTMS&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1593747507627</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593747507627</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,17 +176,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="开发人员首次提交CMS" />
-    <option name="LAST_COMMIT_MESSAGE" value="开发人员首次提交CMS" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/myzhibei/CTMS&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/myzhibei/CTMS&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="826" y="414" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591109602433">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="826" y="414" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1591109602433" />
-    <state x="422" y="30" key="CommitChangelistDialog2" timestamp="1593744151862">
+    <state x="422" y="0" key="CommitChangelistDialog2" timestamp="1593747506425">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="422" y="30" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593744151862" />
+    <state x="422" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593747506425" />
     <state x="1100" y="335" key="FileChooserDialogImpl" timestamp="1593743684485">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -205,10 +228,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="55" y="125" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593747134935" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593747359199">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593748869955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593747359199" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593748869955" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1591080906794">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
