@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(to bottom right, #00712F, #00712F);
+}
+
+#main-container {
+    background: #00712F;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-container {
+    /*background: rgba(0, 0, 0, 0.6);*/
+    border-radius: 3px;
+    padding: 20px;
+    width: 400px;
+}
+
+#login-form {
+    margin-top: 35px;
+}
+
+.input-interval {
+    margin: 15px 0;
+}

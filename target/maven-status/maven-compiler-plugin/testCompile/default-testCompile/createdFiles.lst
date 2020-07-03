@@ -1,0 +1,15 @@
+com\example\cinema\blImpl\sales\TicketServiceImplTest.class
+com\example\cinema\data\sales\TicketMapperTest.class
+com\example\cinema\blImpl\consume\ConsumeServiceImplTest.class
+com\example\cinema\data\user\AccountMapperTest.class
+com\example\cinema\blImpl\promotion\member\VIPServiceImplTest.class
+com\example\cinema\data\promotion\member\CardTypeMapperTest.class
+com\example\cinema\blImpl\management\schedule\ScheduleServiceForBlTest.class
+com\example\cinema\management\HallMapperTest.class
+com\example\cinema\blImpl\promotion\member\CardTypeServiceImplTest.class
+com\example\cinema\data\consume\ConsumeMapperTest.class
+com\example\cinema\blImpl\management\hall\HallServiceImplTest.class
+com\example\cinema\data\promotion\member\VIPCardMapperTest.class
+com\example\cinema\po\HallTest.class
+com\example\cinema\blImpl\user\RoleServiceImplTest.class
+com\example\cinema\data\sales\RefundMapperTest.class
