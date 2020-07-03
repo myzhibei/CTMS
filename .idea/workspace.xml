@@ -7,822 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc22cb79-c01a-488e-ad16-3559f3990438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CinemaManagementSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CinemaManagementSystem_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/git提交规范.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-3-10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-3-14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-3-19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-3-25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-3-27.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-4-10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-4-19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-4-28.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-4-4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-5-14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-5-19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-5-25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-5-7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-6-17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-6-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/会议记录2019-6-9.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/大作业展示.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/5d077ac36100595646.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/体系结构设计文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/体系结构设计文档.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/用例文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/用例文档.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/详细设计文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/详细设计文档.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/需求规格说明文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/需求规格说明文档.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/CinemaManagementSystem.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/HdrHistogram-2.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/HikariCP-3.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/LatencyUtils-2.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/accessors-smart-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/android-json-0.0.20131108.vaadin1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/asm-5.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/assertj-core-3.11.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/byte-buddy-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/byte-buddy-agent-1.9.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/classmate-1.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/commons-codec-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/commons-io-2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/hamcrest-library-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/hibernate-validator-6.0.14.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-datatype-jdk8-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-datatype-jsr310-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jackson-module-parameter-names-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jaxb-api-2.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jboss-logging-3.3.2.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/json-path-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/json-smart-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jsonassert-1.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/jul-to-slf4j-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/log4j-api-2.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/log4j-to-slf4j-2.11.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/logback-classic-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/logback-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/lombok-1.18.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/micrometer-core-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mockito-core-2.23.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mybatis-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mybatis-spring-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mybatis-spring-boot-autoconfigure-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mybatis-spring-boot-starter-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/mysql-connector-java-8.0.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/nekohtml-1.9.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/objenesis-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/snakeyaml-1.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-actuator-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-actuator-autoconfigure-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-autoconfigure-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-devtools-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-actuator-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-json-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-logging-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-test-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-thymeleaf-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-starter-web-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-test-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-test-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/thymeleaf-3.0.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/thymeleaf-extras-java8time-3.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/thymeleaf-spring5-3.0.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/tomcat-embed-core-9.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/tomcat-embed-el-9.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/tomcat-embed-websocket-9.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/validation-api-2.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/xercesImpl-2.10.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/xml-apis-1.4.01.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/CinemaManagementSystem_jar/xmlunit-core-2.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/cinema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/CinemaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/consume/ConsumeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/management/HallService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/management/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/management/ScheduleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/management/banner/BannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/promotion/ActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/promotion/CardTypeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/promotion/CouponService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/promotion/VIPService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/sales/LotteryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/sales/RefundService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/sales/TicketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/statistics/MovieLikeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/statistics/StatisticsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/user/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/bl/user/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/consume/ConsumeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/banner/BannerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/hall/HallServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/hall/HallServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/movie/MovieServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/movie/MovieServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/schedule/ScheduleServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/management/schedule/ScheduleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/activity/ActivityServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/activity/ActivityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/coupon/CouponServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/coupon/CouponServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/member/CardTypeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/member/VIPServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/promotion/member/VIPServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/sales/LotteryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/sales/RefundServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/sales/RefundServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/sales/TicketServiceForBl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/sales/TicketServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/statistics/MovieLikeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/statistics/StatisticsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/user/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/blImpl/user/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/config/InterceptorConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/consume/ConsumeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/management/HallController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/management/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/management/ScheduleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/management/banner/BannerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/promotion/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/promotion/CardTypeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/promotion/CouponController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/promotion/VIPCardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/router/ViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/sales/LotteryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/sales/RefundController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/sales/TicketController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/statistics/StatisticsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/user/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/controller/user/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/consume/ConsumeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/management/BannerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/management/HallMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/management/MovieMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/management/ScheduleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/promotion/ActivityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/promotion/CardTypeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/promotion/CouponMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/promotion/VIPCardMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/sales/RefundMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/sales/TicketMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/statistics/MovieLikeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/statistics/StatisticsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/data/user/AccountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/interceptor/AdminInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/interceptor/AudienceInteceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/interceptor/ManagerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/AudiencePrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/BannerInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/ConsumeHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Coupon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/DateLike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/MovieLike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/MovieScheduleTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/MovieTotalBoxOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Refund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/ScheduleItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/TopUpHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/po/VIPCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ActivityForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ActivityVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/AudiencePriceVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/BriefConsumeHisVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/BuyCardHistoryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/BuyTicketHistoryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/CardTypeForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/CouponForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/DateLikeVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/HallVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/LotteryCouponVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieBatchOffForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieLikeMostVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieLikeVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieScheduleTimeVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieTotalBoxOfficeVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/MovieVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/PlacingRateVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/PresentForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/RecentPopularMovieVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/RefundForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/RefundVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ResponseVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/RoleVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleBatchDeleteForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleItemVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleViewForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/ScheduleWithSeatVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/SeatForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TicketAndCouponVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TicketForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TicketVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TicketWithCouponVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TicketWithScheduleVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/TotalConsumeUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/UserForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/UserTicketVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/UserVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/cinema/vo/VIPCardForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/consume/ConsumeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/management/BannerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/management/HallMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/management/MovieMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/management/ScheduleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/promotion/ActivityMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/promotion/CardTypeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/promotion/CouponMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/promotion/VIPCardMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/sales/RefundMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/sales/TicketMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/statistics/MovieLikeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/statistics/StatisticsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dataImpl/user/AccountMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminCouponPresent.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminPromotion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminRefund.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminRoleManage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminSchedule.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/adminStatistic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/consumeHisDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/movieDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/movieList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/refundList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userBuy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userConsumeHistory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userEdit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userMember.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userMovie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userMovieBuy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userMovieDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/userTopUpHistory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/font/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/couponBackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/couponChoose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/defaultAvatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/seat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/seatChoose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/seatLock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/Component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/ComingMovies/ComingMovies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/ComingMovies/ComingMovies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/HotMovies/HotMovies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/HotMovies/HotMovies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/MovieRank/MovieRank.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/MovieRank/MovieRank.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/MovieRank/MovieRankItem/MovieRankItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/MovieRank/MovieRankItem/MovieRankItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/UserHome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserHome/UserHome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/LotteryButton/LotteryButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/LotteryButton/LotteryButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/LotteryCategory/LotteryCategory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/LotteryCategory/LotteryCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/PayModal/PayModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/ShowLottery/ShowLottery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/ShowLottery/ShowLottery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/userLottery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/UserLottery/userLottery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCardManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/AddHall/AddHall.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/AddHall/AddHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/AdminCinemaManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/CanSeeDay/CanSeeDay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/HallInfoForm/HallInfoForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/HallInfoForm/HallInfoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/HallManageNavi/HallManageNavi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/HallManageNavi/HallManageNavi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/ManageableHallList/ManageableHallList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/ManageableHallList/ManageableHallList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/ModifyHall/ModifyHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/RemoveHall/RemoveHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/ViewHall/ViewHall.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/ViewHall/ViewHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaManage/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCinemaStatistic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminCouponPresent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminMovieManage/adminMovieManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminPromotionManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminRefundManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminRoleManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminScheduleManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-table-zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/AdminPanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/Banner/Banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/Banner/Banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/MovieItem/MovieItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/MovieItem/MovieItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/MoviePoster/MoviePoster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/MoviePoster/MoviePoster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/UserHeader/UserHeader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/components/UserHeader/UserHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/consumeHisDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/movieDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/signUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userBuy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userConsumeHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userMember.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userMovie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userMovieBuy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userMovieDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/userTopUpHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminCardManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminCinemaManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminCinemaStatistic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminCouponPresent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminMovieDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminMovieManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminPromotionManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminRefundManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminRoleManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/adminScheduleManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/consumeHisDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/signUp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userBuy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userConsumeHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userEdit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userHome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userLottery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userMember.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userMovie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userMovieBuy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userMovieDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userTopUpHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/consume/ConsumeServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/management/hall/HallServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/management/schedule/ScheduleServiceForBlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/promotion/member/CardTypeServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/promotion/member/VIPServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/sales/TicketServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/blImpl/user/RoleServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/consume/ConsumeMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/promotion/member/CardTypeMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/promotion/member/VIPCardMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/sales/RefundMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/sales/TicketMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/data/user/AccountMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/management/HallMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/cinema/po/HallTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cinema-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/cinema-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/CinemaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/consume/ConsumeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/management/HallService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/management/MovieService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/management/ScheduleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/management/banner/BannerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/promotion/ActivityService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/promotion/CardTypeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/promotion/CouponService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/promotion/VIPService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/sales/LotteryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/sales/RefundService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/sales/TicketService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/statistics/MovieLikeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/statistics/StatisticsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/user/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/bl/user/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/consume/ConsumeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/banner/BannerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/hall/HallServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/hall/HallServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/movie/MovieServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/movie/MovieServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/schedule/ScheduleServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/management/schedule/ScheduleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/activity/ActivityServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/activity/ActivityServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/coupon/CouponServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/coupon/CouponServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/member/CardTypeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/member/VIPServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/promotion/member/VIPServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/sales/LotteryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/sales/RefundServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/sales/RefundServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/sales/TicketServiceForBl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/sales/TicketServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/statistics/MovieLikeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/statistics/StatisticsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/user/AccountServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/blImpl/user/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/config/InterceptorConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/consume/ConsumeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/management/HallController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/management/MovieController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/management/ScheduleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/management/banner/BannerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/promotion/ActivityController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/promotion/CardTypeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/promotion/CouponController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/promotion/VIPCardController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/router/ViewController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/sales/LotteryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/sales/RefundController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/sales/TicketController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/statistics/StatisticsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/user/AccountController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/controller/user/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/consume/ConsumeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/management/BannerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/management/HallMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/management/MovieMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/management/ScheduleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/promotion/ActivityMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/promotion/CardTypeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/promotion/CouponMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/promotion/VIPCardMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/sales/RefundMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/sales/TicketMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/statistics/MovieLikeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/statistics/StatisticsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/data/user/AccountMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/interceptor/AdminInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/interceptor/AudienceInteceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/interceptor/ManagerInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Activity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/AudiencePrice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/BannerInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/CardType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/ConsumeHistory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Coupon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/DateLike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Hall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Movie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/MovieLike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/MovieScheduleTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/MovieTotalBoxOffice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Refund.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/ScheduleItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/Ticket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/TopUpHistory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/po/VIPCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ActivityForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ActivityVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/AudiencePriceVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/BriefConsumeHisVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/BuyCardHistoryVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/BuyTicketHistoryVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/CardTypeForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/CouponForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/DateLikeVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/HallVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/LotteryCouponVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieBatchOffForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieLikeMostVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieLikeVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieScheduleTimeVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieTotalBoxOfficeVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/MovieVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/PlacingRateVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/PresentForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/RecentPopularMovieVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/RefundForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/RefundVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ResponseVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/RoleVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleBatchDeleteForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleItemVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleViewForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/ScheduleWithSeatVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/SeatForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TicketAndCouponVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TicketForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TicketVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TicketWithCouponVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TicketWithScheduleVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/TotalConsumeUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/UserForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/UserTicketVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/UserVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/cinema/vo/VIPCardForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/consume/ConsumeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/management/BannerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/management/HallMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/management/MovieMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/management/ScheduleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/promotion/ActivityMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/promotion/CardTypeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/promotion/CouponMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/promotion/VIPCardMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/sales/RefundMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/sales/TicketMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/statistics/MovieLikeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/statistics/StatisticsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dataImpl/user/AccountMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminCouponPresent.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminPromotion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminRefund.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminRoleManage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminSchedule.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/adminStatistic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/consumeHisDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/movieDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/movieList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/refundList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userBuy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userConsumeHistory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userEdit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userMember.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userMovie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userMovieBuy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userMovieDetail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/userTopUpHistory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/font/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/font/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/font/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/font/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/font/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/couponBackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/couponChoose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/defaultAvatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/seat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/seatChoose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/seatLock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/Component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/ComingMovies/ComingMovies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/ComingMovies/ComingMovies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/HotMovies/HotMovies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/HotMovies/HotMovies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/MovieRank/MovieRank.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/MovieRank/MovieRank.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/MovieRank/MovieRankItem/MovieRankItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/MovieRank/MovieRankItem/MovieRankItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/UserHome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserHome/UserHome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/LotteryButton/LotteryButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/LotteryButton/LotteryButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/LotteryCategory/LotteryCategory.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/LotteryCategory/LotteryCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/PayModal/PayModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/ShowLottery/ShowLottery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/ShowLottery/ShowLottery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/userLottery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/UserLottery/userLottery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCardManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/AddHall/AddHall.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/AddHall/AddHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/AdminCinemaManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/CanSeeDay/CanSeeDay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/HallInfoForm/HallInfoForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/HallInfoForm/HallInfoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/HallManageNavi/HallManageNavi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/HallManageNavi/HallManageNavi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/ManageableHallList/ManageableHallList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/ManageableHallList/ManageableHallList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/ModifyHall/ModifyHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/RemoveHall/RemoveHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/ViewHall/ViewHall.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/ViewHall/ViewHall.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaManage/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCinemaStatistic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminCouponPresent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminMovieManage/adminMovieManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminPromotionManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminRefundManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminRoleManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminScheduleManage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-table-zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/AdminPanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/Banner/Banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/Banner/Banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/MovieItem/MovieItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/MovieItem/MovieItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/MoviePoster/MoviePoster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/MoviePoster/MoviePoster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/UserHeader/UserHeader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/components/UserHeader/UserHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/consumeHisDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/echarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/movieDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/signUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userBuy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userConsumeHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userMember.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userMovie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userMovieBuy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userMovieDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/userTopUpHistory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminCardManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminCinemaManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminCinemaStatistic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminCouponPresent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminMovieDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminMovieManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminPromotionManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminRefundManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminRoleManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/adminScheduleManage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/consumeHisDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/signUp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userBuy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userConsumeHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userEdit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userHome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userLottery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userMember.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userMovie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userMovieBuy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userMovieDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/userTopUpHistory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/consume/ConsumeServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/management/hall/HallServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/management/schedule/ScheduleServiceForBlTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/promotion/member/CardTypeServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/promotion/member/VIPServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/sales/TicketServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/blImpl/user/RoleServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/consume/ConsumeMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/promotion/member/CardTypeMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/promotion/member/VIPCardMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/sales/RefundMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/sales/TicketMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/data/user/AccountMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/management/HallMapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/cinema/po/HallTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -868,7 +54,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2678161" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="CinemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -915,18 +101,70 @@
       <workItem from="1591086974401" duration="6977000" />
       <workItem from="1591166072349" duration="98000" />
       <workItem from="1593651106810" duration="1179000" />
-      <workItem from="1593739203328" duration="1665000" />
+      <workItem from="1593739203328" duration="4565000" />
     </task>
+    <task id="LOCAL-00001" summary="开发人员首次提交CMS">
+      <created>1593744156934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593744156934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="开发人员首次提交CMS" />
+    <option name="LAST_COMMIT_MESSAGE" value="开发人员首次提交CMS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="826" y="414" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591109602433">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="826" y="414" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1591109602433" />
+    <state x="422" y="30" key="CommitChangelistDialog2" timestamp="1593744151862">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="422" y="30" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593744151862" />
     <state x="1100" y="335" key="FileChooserDialogImpl" timestamp="1593743684485">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -963,10 +201,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="297" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591109923430" />
-    <state x="55" y="125" key="SettingsEditor" timestamp="1593743547061">
+    <state x="55" y="125" key="SettingsEditor" timestamp="1593747134935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="55" y="125" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593743547061" />
+    <state x="55" y="125" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593747134935" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1593747359199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593747359199" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1591080906794">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
